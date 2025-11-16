@@ -1,2 +1,2 @@
 # Numpy_Projects
-Here my all Projects File Basic to Advanced Level Topic Wise
+This repository contains my complete NumPy learning journey — from basics to advanced concepts — with practice questions and mini industry projects.
