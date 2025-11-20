@@ -1,0 +1,2 @@
+2025-11-20 11:42:51,397 - ERROR - Error occurred: division by zero
+2025-11-20 11:42:51,399 - ERROR - Error occurred: unsupported operand type(s) for /: 'int' and 'str'
